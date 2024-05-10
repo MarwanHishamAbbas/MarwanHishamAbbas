@@ -1,5 +1,6 @@
 # 💫 About Me:
-Highly-skilled professional with 3+ years of experience developing and executing a wide variety of front-end projects.
+My name is Marwan Hisham 🐺, a Front End Developer expert with more than 4 years of experience in the field.
+My true passion lies in the art of crafting unique websites and Single-Page Applications (SPAs) that captivate users with exceptional design and seamless functionality. I am committed to staying at the forefront of the rapidly evolving web development landscape and am well-versed in the most advanced technologies available
 
 
 ## 🌐 Socials:
