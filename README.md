@@ -1,15 +1,12 @@
-# Hi there, I'm [Your Name] 👋
-
-## 💻 Front-End Focused Full-Stack Developer
 
 > ⭐️⭐️⭐️⭐️⭐️ "Marwan has always been a pleasure to have on the team. We have constantly been impressed by his capabilities all around and ability to learn new responsibilities and skills. Marwan was instrumental in helping us launch our new rebranded websites and we couldn’t be more grateful for his speed and accuracy with the development."
 
 ---- Reagan Bonlie | Founder at Nudge Money | Helping Credit Unions 7x Marketing Conversion via Personalized Financial Guidance | Ex-JPMorgan | 3x Founder ----
 
-My name is Marwan Hisham 🐺, a Front End Developer with more than 4 years of experience in the field.
+My name is Marwan Hisham 🐺, a Full-Stack Developer with more than 4 years of experience in the field.
 My true passion lies in the art of crafting unique websites and Single-Page Applications (SPAs) that captivate users with exceptional design and seamless functionality. I am committed to staying at the forefront of the rapidly evolving web development landscape and am well-versed in the most advanced technologies available
 
-[![Portfolio](https://img.shields.io/badge/website-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://yourportfolio.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=website&logoColor=white)](https://yourportfolio.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
