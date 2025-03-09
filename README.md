@@ -6,9 +6,9 @@
 My name is Marwan Hisham 🐺, a Full-Stack Developer with more than 4 years of experience in the field.
 My true passion lies in the art of crafting unique websites and Single-Page Applications (SPAs) that captivate users with exceptional design and seamless functionality. I am committed to staying at the forefront of the rapidly evolving web development landscape and am well-versed in the most advanced technologies available
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=globe&logoColor=white)](https://yourportfolio.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Arc](https://img.shields.io/badge/Arc-FCBFBD?logo=arc&logoColor=000)](https://marwanhisham.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marwanhiisham/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marwanhishamdev@gmail.com)
 
 ## 🚀 Technical Skills
 
