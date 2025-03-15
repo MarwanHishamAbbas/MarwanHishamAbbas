@@ -40,29 +40,6 @@ My true passion lies in the art of crafting unique websites and Single-Page Appl
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white)
 
-## 🔥 Featured Projects
-
-### [Project Name 1](https://github.com/yourusername/project1)
-![Project Banner](/api/placeholder/800/400)
-
-A modern e-commerce platform built with Next.js and Tailwind CSS, featuring server-side rendering, cart functionality, and seamless payment integration.
-
-**Technologies:** Next.js, TypeScript, Tailwind CSS, Redux, Stripe API, MongoDB
-
-### [Project Name 2](https://github.com/yourusername/project2)
-![Project Banner](/api/placeholder/800/400)
-
-A real-time dashboard application for monitoring and visualizing data with interactive charts and customizable widgets.
-
-**Technologies:** React, D3.js, Socket.io, Node.js, Express, PostgreSQL
-
-### [Project Name 3](https://github.com/yourusername/project3)
-![Project Banner](/api/placeholder/800/400)
-
-A progressive web app that works offline, providing users with a seamless experience regardless of network connectivity.
-
-**Technologies:** React, Redux, Workbox, IndexedDB, Node.js, Firebase
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -70,26 +47,38 @@ A progressive web app that works offline, providing users with a seamless experi
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarwanHishamAbbas&layout=compact&theme=react" alt="Most Used Languages" height="170" />
 </div>
 
+## 🔥 Featured Projects
+
+### Ahmed Mahmoud (https://ahmedmahmoud.com)
+![Project Banner](https://res.cloudinary.com/dkujhhn6j/image/upload/c_limit,w_1080/f_auto/q_auto/v1/projects/1IMU1jauR35ITkVwN6bgMz8Tdwx4bpQfx_bua0yj?_a=BAVAZGBz0)
+
+A real-time dashboard application for monitoring and visualizing data with interactive charts and customizable widgets.
+
+**Technologies:** React, D3.js, Astro, Node.js, Framer Motion, GSAP
+
+
+**Technologies:** React, Redux, Workbox, IndexedDB, Node.js, Firebase
+
 ## 💼 Professional Experience
 
-### Senior Front-End Developer at [Company Name]
-*January 2022 - Present*
+### Senior Front-End Developer at Nudge Money
+*January 2023 - March 2024*
 
-- Led the front-end development of the company's flagship product, resulting in a 40% improvement in load times
-- Implemented modern CI/CD practices, reducing deployment time by 60%
-- Mentored junior developers and established front-end coding standards
+- Developed and optimized the company website, improving performance by 30% on desktop and 20% on mobile through responsive design, cross-browser compatibility, and performance optimization.
+- Integrated a headless CMS (Sanity.io) for streamlined content management, facilitating the creation of a dynamic blog section to enhance user engagement.
+- Collaborated within an agile team to maintain the website, ensuring a visually appealing, user-friendly interface aligned with accessibility standards.
 
-### Full-Stack Developer at [Company Name]
-*June 2020 - December 2021*
+### Full-Stack Developer at ORKA Solutions
+*May 2022 - January 2023*
 
-- Developed responsive web applications with React and Node.js
-- Created RESTful APIs and integrated with third-party services
-- Optimized database queries resulting in 30% improved performance
+- Created and maintained a responsive, cross-browser-compatible website that adhered to accessibility standards, ensuring a seamless user experience.
+- Led the development of the "InstaPrint" mobile app MVP, collaborating with marketers to implement core features and backend integration, delivering a functional prototype.
+- Mentored junior developers and interns, conducting training sessions on front-end development best practices and supporting their project development.
 
 ## 🎓 Education
 
-**Bachelor of Science in Computer Science**  
-University Name, Graduated 2020
+**Bachelor of Science in Applied Science**  
+Alexandria University,Egypt - Graduated 2022
 
 ## 🌱 Currently Learning
 
@@ -100,8 +89,8 @@ University Name, Graduated 2020
 ## 📫 How to Reach Me
 
 - 📧 Email: your.email@example.com
-- 💼 LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername/)
-- 🌐 Website: [yourportfolio.com](https://yourportfolio.com/)
+- 💼 LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/MarwanHiisham/)
+- 🌐 Website: [yourportfolio.com](https://marwanhisham.com.com/)
 
 ## 🚀 Fun Facts
 
@@ -112,5 +101,5 @@ University Name, Graduated 2020
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=MarwanHishamAbbas&color=blueviolet" alt="Profile Views" />
 </div>
