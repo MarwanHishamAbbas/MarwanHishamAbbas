@@ -66,8 +66,8 @@ A progressive web app that works offline, providing users with a seamless experi
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=react" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=react" alt="Most Used Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MarwanHishamAbbas&show_icons=true&theme=react" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarwanHishamAbbas&layout=compact&theme=react" alt="Most Used Languages" height="170" />
 </div>
 
 ## 💼 Professional Experience
