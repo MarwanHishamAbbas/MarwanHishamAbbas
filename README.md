@@ -10,6 +10,12 @@ My true passion lies in the art of crafting unique websites and Single-Page Appl
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marwanhiisham/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marwanhishamdev@gmail.com)
 
+## 📊 GitHub Stats
+
+![MarwanHishamAbbas's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MarwanHishamAbbas&theme=dark&hide_border=false)
+![MarwanHishamAbbas's Stats](https://github-readme-stats.vercel.app/api?username=MarwanHishamAbbas&theme=dark&show_icons=true&hide_border=false&count_private=true)
+![MarwanHishamAbbas's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarwanHishamAbbas&theme=dark&show_icons=true&hide_border=false&layout=compact)
+
 ## 🚀 Technical Skills
 
 ### Front-End Development
@@ -39,13 +45,6 @@ My true passion lies in the art of crafting unique websites and Single-Page Appl
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white)
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarwanHishamAbbas&show_icons=true&theme=react" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarwanHishamAbbas&layout=compact&theme=react" alt="Most Used Languages" height="170" />
-</div>
 
 ## 🔥 Featured Projects
 
