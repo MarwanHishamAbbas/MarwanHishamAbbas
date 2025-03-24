@@ -15,11 +15,11 @@ My true passion lies in the art of crafting unique websites and Single-Page Appl
 ![MarwanHishamAbbas's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MarwanHishamAbbas&theme=dark&hide_border=false)
 ![MarwanHishamAbbas's Stats](https://github-readme-stats.vercel.app/api?username=MarwanHishamAbbas&theme=dark&show_icons=true&hide_border=false&count_private=true)
 
+## 🚀 Technical Skills
 
 ![MarwanHishamAbbas's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarwanHishamAbbas&theme=dark&show_icons=true&hide_border=false&layout=compact)
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,ts,next,express,git,github,nginx,nodejs,pnpm,vscode,graphql,md,vite,react,astro,swift,mysql,sqlite,apple,appwrite,babel,bash,bitbucket,bun,figma,notion,supabase,vercel,&perline=10)](https://skillicons.dev)
 
-## 🚀 Technical Skills
 
 ### Front-End Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
