@@ -6,9 +6,11 @@
 My name is Marwan Hisham 🐺, a Full-Stack Developer with more than 4 years of experience in the field.
 My true passion lies in the art of crafting unique websites and Single-Page Applications (SPAs) that captivate users with exceptional design and seamless functionality. I am committed to staying at the forefront of the rapidly evolving web development landscape and am well-versed in the most advanced technologies available
 
-[![Arc](https://img.shields.io/badge/Arc-FCBFBD?logo=arc&logoColor=000)](https://marwanhisham.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marwanhiisham/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marwanhishamdev@gmail.com)
+[![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://marwanhisham.com/)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/marwanhiisham/)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?logo=upwork&logoColor=fff)](https://www.upwork.com/freelancers/~011fc8407dd41b2500)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:marwanhishamdev@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/+201125201190)
 
 ## 📊 GitHub Stats
 
