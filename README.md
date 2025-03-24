@@ -14,7 +14,7 @@ My true passion lies in the art of crafting unique websites and Single-Page Appl
 
 ![MarwanHishamAbbas's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MarwanHishamAbbas&theme=dark&hide_border=false)
 ![MarwanHishamAbbas's Stats](https://github-readme-stats.vercel.app/api?username=MarwanHishamAbbas&theme=dark&show_icons=true&hide_border=false&count_private=true)
-![MarwanHishamAbbas's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarwanHishamAbbas&theme=dark&show_icons=true&hide_border=false&layout=compact)
+![MarwanHishamAbbas's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarwanHishamAbbas&theme=dark&show_icons=true&hide_border=false)
 
 ## 🚀 Technical Skills
 
