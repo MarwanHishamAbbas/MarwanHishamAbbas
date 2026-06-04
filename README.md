@@ -12,11 +12,6 @@ My true passion lies in the art of crafting unique websites and Single-Page Appl
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:marwanhishamdev@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/+201125201190)
 
-## 📊 GitHub Stats
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marwanhishamabbas&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
 ## 🚀 Technical Skills
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,ts,next,express,git,github,nginx,nodejs,pnpm,vscode,graphql,md,vite,react,astro,swift,mysql,sqlite,apple,appwrite,babel,bash,bitbucket,bun,figma,notion,supabase,vercel,&perline=10)](https://skillicons.dev)
