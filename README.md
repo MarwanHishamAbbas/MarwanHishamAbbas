@@ -15,7 +15,7 @@ My true passion lies in the art of crafting unique websites and Single-Page Appl
 ## 📊 GitHub Stats
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?MarwanHishamAbbas=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marwanhishamabbas&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 ## 🚀 Technical Skills
 
