@@ -15,7 +15,7 @@ My true passion lies in the art of crafting unique websites and Single-Page Appl
 ## 📊 GitHub Stats
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=MarwanHishamAbbas&theme=dark&border_radius=5&short_numbers=true)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?MarwanHishamAbbas=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 ## 🚀 Technical Skills
 
