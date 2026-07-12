@@ -12,6 +12,13 @@ My true passion lies in the art of crafting unique websites and Single-Page Appl
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:marwanhishamdev@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/+201125201190)
 
+
+
+## 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=MarwanHishamabbas&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=MarwanHishamabbas&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=MarwanHishamabbas&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 ## 🚀 Technical Skills
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,ts,next,express,git,github,nginx,nodejs,pnpm,vscode,graphql,md,vite,react,astro,swift,mysql,sqlite,apple,appwrite,babel,bash,bitbucket,bun,figma,notion,supabase,vercel,&perline=10)](https://skillicons.dev)
